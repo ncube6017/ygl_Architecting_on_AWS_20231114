@@ -1,4 +1,7 @@
 # ygl_Architecting_on_AWS_20231114
+
+강사: 김문주 moonju.khim@gmail.com
+
 Architecting on AWS
 
 
