@@ -4,6 +4,7 @@
 
 https://github.com/moonjukhim/AWS  Download ZIP(AWS-master.zip)
 
+200-ARCHIT/aws.zip (PW:aws1117)
 
 Architecting on AWS
 
